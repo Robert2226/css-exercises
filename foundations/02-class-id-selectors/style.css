@@ -1,0 +1,16 @@
+.numberThree {
+  background-color: lightpink;
+  font-family: Verdana, sans-serif;
+  font-size: 24px;
+}
+
+#numberTwo {
+  font-size: 36px;
+  color: blue;
+}
+
+#numberFour {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
